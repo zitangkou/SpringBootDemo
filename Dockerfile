@@ -1,4 +1,4 @@
-FROM serendibsystems/java17
+FROM scottyengineering/java11
 
 VOLUME /tmp 
 
